@@ -1,0 +1,88 @@
+Privacy Policy for Music Trends App
+
+Last Updated: July 1, 2025
+
+Thank you for using the Music Trends App (“App”, “we”, “our”, or “us”). Your privacy is very important to us, and we are committed to protecting the personal information you provide when using our services. This Privacy Policy explains how we collect, use, disclose, and protect your information.
+
+1. Information We Collect
+a) Usage Information
+We do not require users to sign up, log in, or create an account. However, when you use our App, we may automatically collect non-personally identifiable information such as:
+
+Device type and model
+
+Operating system version
+
+App version
+
+Country-level location (based on IP address)
+
+Internet connection status
+
+This information helps us improve the user experience and diagnose performance issues.
+
+b) Analytics and View Data
+The App fetches and displays publicly available view counts for music videos using the YouTube Data API. These statistics are retrieved without storing any personal user data.
+
+c) Ad Information
+Our app uses AdMob (by Google) to serve advertisements. AdMob may collect information such as your device’s advertising ID, usage statistics, and rough location for personalized or non-personalized ads, in accordance with Google’s Privacy Policy.
+
+d) Crash Reports and Errors
+We may log errors that occur during app usage, which may include:
+
+Device details (model, OS version)
+
+Stack traces
+
+Network request failures (without content)
+
+These logs do not include personal identifiers.
+
+2. How We Use the Information
+We use the information we collect to:
+
+Display and sort trending YouTube music videos based on view data
+
+Load ads via AdMob for monetization
+
+Detect connectivity issues and show retry options
+
+Improve user interface and functionality based on usage patterns
+
+No personally identifiable data is collected, stored, or shared.
+
+3. Data Storage and Retention
+View Data: Music video statistics are stored in a public JSON file hosted via GitHub Pages. These are refreshed daily.
+
+Ad Data: All ad-related data collection is managed by Google AdMob. We do not access or store ad profile information directly.
+
+All data is stored securely and retained only as long as necessary for the App’s core functionality.
+
+4. Third-Party Services
+Our App integrates with the following third-party services:
+
+Service	Purpose	Link to Privacy Policy
+YouTube Data API	Fetch trending music video data	https://policies.google.com/privacy
+Google AdMob	Displaying ads	https://policies.google.com/technologies/ads
+GitHub Pages	Hosting view data JSON files	https://docs.github.com/en/site-policy
+
+These services have their own policies which you should review for more details on their practices.
+
+5. Internet Connectivity
+The App actively monitors internet access to ensure it can fetch updated content. If no connection is detected, you may see a retry popup. No connection checks transmit or store personal data.
+
+6. Children’s Privacy
+This App is not intended for children under the age of 13. We do not knowingly collect or solicit any personal information from children. If you believe a child under 13 has provided us personal information, please contact us and we will delete it immediately.
+
+7. Security
+We use secure HTTPS connections for all data communications and follow modern security practices. However, please note that no mobile platform or transmission method is 100% secure.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we do, we will revise the “Last Updated” date at the top. We encourage users to check this page regularly to stay informed.
+
+9. Contact
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+📧 Email: musictrendsapp@protonmail.com
+🌐 App Website: https://djaionfvom.github.io/music-trends-json
+
+By using the App, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the App.
