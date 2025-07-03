@@ -4,6 +4,12 @@ Last Updated: July 1, 2025
 
 Thank you for using the Music Trends App (“App”, “we”, “our”, or “us”). Your privacy is very important to us, and we are committed to protecting the personal information you provide when using our services. This Privacy Policy explains how we collect, use, disclose, and protect your information.
 
+Disclaimer: This app is not affiliated with or endorsed by YouTube or Google.
+All video content (titles, thumbnails, etc.) is provided via the YouTube Data API and remains the property of its respective owners.
+This app links to videos on YouTube Music for personal viewing only.
+No video content is hosted or downloaded within this app.
+For copyright concerns, please contact us at [your email].
+
 1. Information We Collect
 a) Usage Information
 We do not require users to sign up, log in, or create an account. However, when you use our App, we may automatically collect non-personally identifiable information such as:
@@ -22,9 +28,11 @@ This information helps us improve the user experience and diagnose performance i
 
 b) Analytics and View Data
 The App fetches and displays publicly available view counts for music videos using the YouTube Data API. These statistics are retrieved without storing any personal user data.
+YouTube and the YouTube logo are trademarks of Google LLC. https://www.youtube.com/t/terms
 
 c) Ad Information
 Our app uses AdMob (by Google) to serve advertisements. AdMob may collect information such as your device’s advertising ID, usage statistics, and rough location for personalized or non-personalized ads, in accordance with Google’s Privacy Policy.
+If you are located in the European Economic Area (EEA), the App will display a consent form for personalized or non-personalized ads in compliance with GDPR and Google’s EU User Consent Policy.
 
 d) Crash Reports and Errors
 We may log errors that occur during app usage, which may include:
