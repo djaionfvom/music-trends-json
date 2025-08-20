@@ -1,5 +1,309 @@
 {
   "songs": {
+    "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)": {
+      "views": 17164044,
+      "previous_views": 17052588,
+      "views_history": {
+        "2025-08-15": 6684819,
+        "2025-08-17": 11642521,
+        "2025-08-18": 13570336,
+        "2025-08-19": 15434982,
+        "2025-08-20": 17164044
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/FMX98ROVRCE/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=FMX98ROVRCE"
+    },
+    "Justin Bieber - YUKON": {
+      "views": 13696117,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 13696117
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/fXivMSJm_kA/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=fXivMSJm_kA"
+    },
+    "Chino Pacas - Ojitos Mentirosos [Video Oficial]": {
+      "views": 9537531,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 9537531
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/CTGxf_3VrUQ/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=CTGxf_3VrUQ"
+    },
+    "Natanael Cano x Gabito Ballesteros - Perlas Negras [Officia Video]": {
+      "views": 4251050,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 4251050
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/uE1qddI0Xo4/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=uE1qddI0Xo4"
+    },
+    "SUGAR ON MY TONGUE": {
+      "views": 3549695,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 3549695
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/ljHdccyQbT4/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ljHdccyQbT4"
+    },
+    "Gunna - just say dat [Official Video]": {
+      "views": 3325849,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 3325849
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/8gy-Y9tWK6M/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=8gy-Y9tWK6M"
+    },
+    "Cardi B - Imaginary Playerz [Official Music Video]": {
+      "views": 3242537,
+      "previous_views": 3224854,
+      "views_history": {
+        "2025-08-20": 3242537
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/cg2MY3F2iAk/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cg2MY3F2iAk"
+    },
+    "\"The Devil Is A Democrat\" - Tom MacDonald": {
+      "views": 2836545,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 2836545
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/wKdFeZTnAK0/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=wKdFeZTnAK0"
+    },
+    "BAD OMENS - Specter (Official Music Video)": {
+      "views": 2312691,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 2312691
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/EUe9UhcUtEI/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=EUe9UhcUtEI"
+    },
+    "Twenty One Pilots - Drum Show (Official Video)": {
+      "views": 2102563,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 2102563
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/5dA094oAy-g/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=5dA094oAy-g"
+    },
+    "Hurricane Wisdom & Lil Baby - Drugs Callin Remix (Official Music Video)": {
+      "views": 1975566,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1975566
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/Q196YTCt8KA/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Q196YTCt8KA"
+    },
+    "Kendo Kaponi - ESO ES POR MI (Official Video)": {
+      "views": 1943518,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1943518
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/a7oRfbTtzNA/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=a7oRfbTtzNA"
+    },
+    "DARLING, I (Official Video)": {
+      "views": 1317128,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1317128
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/kZfz5UlsHlQ/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=kZfz5UlsHlQ"
+    },
+    "Hell At Night": {
+      "views": 1262158,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1262158
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/3bEZj5SbXLY/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=3bEZj5SbXLY"
+    },
+    "Snow Tha Product - SABADO": {
+      "views": 1214662,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1214662
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/RtcPhMiiYNU/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=RtcPhMiiYNU"
+    },
+    "Conan Gray - Caramel (Official Music Video)": {
+      "views": 1167177,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 1167177
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/hYZk9Xz25AQ/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=hYZk9Xz25AQ"
+    },
+    "Polo G & Vonoff1700 - Move Wrong (Official Video)": {
+      "views": 994010,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 994010
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/J2VBTkjD7nU/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=J2VBTkjD7nU"
+    },
+    "YoungBoy Never Broke Again - Trap Out Ft Kevin Gates [Official Audio]": {
+      "views": 956906,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 956906
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/A5OgnmA5xzA/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=A5OgnmA5xzA"
+    },
+    "YoungBoy Never Broke Again - AI Marley [Official Audio]": {
+      "views": 830382,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 830382
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/ma_0Y0Y3D2o/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ma_0Y0Y3D2o"
+    },
+    "Kodak Black - Imma Shoot": {
+      "views": 761277,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 761277
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/yPA1fiNhmbw/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=yPA1fiNhmbw"
+    },
+    "Disappoint Me (Feat. Hurricane Wisdom)": {
+      "views": 736482,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 736482
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/HdIVhp2i1HM/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=HdIVhp2i1HM"
+    },
+    "Factory Reset": {
+      "views": 725609,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 725609
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/38bNYKpcWYE/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=38bNYKpcWYE"
+    },
+    "YoungBoy Never Broke Again - Pants Down [Official Audio]": {
+      "views": 721476,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 721476
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/zGOBwfQvCUo/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=zGOBwfQvCUo"
+    },
+    "$UICIDEBOY$ - Monochromatic": {
+      "views": 601028,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 601028
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/7xl3vayPI2w/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=7xl3vayPI2w"
+    },
+    "Zillionaire Doe - Back To The South Remix Ft. Yo Gotti (Official Video) ": {
+      "views": 556789,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 556789
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/Jf8UEyYrXS4/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Jf8UEyYrXS4"
+    },
+    "Fredo Bang - AIN'T MY FAULT (Official Video)": {
+      "views": 549167,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 549167
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/FyNXfms3hRc/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=FyNXfms3hRc"
+    },
+    "Comando X (En Vivo)": {
+      "views": 532930,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 532930
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/R9rg5T6ziKE/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=R9rg5T6ziKE"
+    },
+    "Satellites 2": {
+      "views": 508254,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 508254
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/4JwzwRgR4sc/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=4JwzwRgR4sc"
+    },
+    "NoCap - Planet Out [Official Music Video]": {
+      "views": 431688,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 431688
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/g3GpuKkqaYE/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=g3GpuKkqaYE"
+    },
+    "Babyfxce E - Cut The Block Off [Official Music Video]": {
+      "views": 237913,
+      "previous_views": null,
+      "views_history": {
+        "2025-08-20": 237913
+      },
+      "last_updated": "2025-08-20",
+      "thumbnail": "https://i.ytimg.com/vi/mP4aqjTLr3A/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=mP4aqjTLr3A"
+    },
     "Luis Fonsi - Despacito ft. Daddy Yankee": {
       "views": 8796126387,
       "previous_views": 8795407288,
@@ -40798,20 +41102,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Fy29jBqckCo/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Fy29jBqckCo"
     },
-    "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)": {
-      "views": 17052588,
-      "previous_views": 15434982,
-      "views_history": {
-        "2025-08-15": 6684819,
-        "2025-08-17": 11642521,
-        "2025-08-18": 13570336,
-        "2025-08-19": 15434982,
-        "2025-08-20": 17052588
-      },
-      "last_updated": "2025-08-20",
-      "thumbnail": "https://i.ytimg.com/vi/FMX98ROVRCE/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=FMX98ROVRCE"
-    },
     "D-Day": {
       "views": 17052271,
       "previous_views": 17042320,
@@ -53871,16 +54161,6 @@
       "last_updated": "2025-08-20",
       "thumbnail": "https://i.ytimg.com/vi/lngwuY1DQw8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=lngwuY1DQw8"
-    },
-    "Cardi B - Imaginary Playerz [Official Music Video]": {
-      "views": 3224854,
-      "previous_views": null,
-      "views_history": {
-        "2025-08-20": 3224854
-      },
-      "last_updated": "2025-08-20",
-      "thumbnail": "https://i.ytimg.com/vi/cg2MY3F2iAk/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cg2MY3F2iAk"
     },
     "Rim'K, @The_tif & @SofianePamart  - Tant pis (Clip officiel)": {
       "views": 3195612,
