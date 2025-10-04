@@ -1,22 +1,23 @@
 {
   "songs": {
     "Tum Mere Na Huye (Video) Thamma | Ayushmann K, Rashmika M | Sachin-Jigar, Madhubanti B, Amitabh B": {
-      "views": 32067135,
-      "previous_views": 32053317,
+      "views": 32088914,
+      "previous_views": 32067135,
       "views_history": {
         "2025-10-01": 19516748,
         "2025-10-02": 26263531,
         "2025-10-03": 31240935,
-        "2025-10-04": 32067135
+        "2025-10-04": 32088914
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/H6l0q4l2NLo/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=H6l0q4l2NLo",
-      "rank_change_1d": -2
+      "previous_rank_daily": null,
+      "rank_daily": 3
     },
     "3am In GILLCO (OFFICIAL VIDEO) PREM DHILLON | THE KIDD | Latest Punjabi Songs 2025": {
-      "views": 8530976,
-      "previous_views": 8528619,
+      "views": 8534830,
+      "previous_views": 8530976,
       "views_history": {
         "2025-09-25": 1788459,
         "2025-09-26": 5063964,
@@ -27,17 +28,32 @@
         "2025-10-01": 7986900,
         "2025-10-02": 8201197,
         "2025-10-03": 8371449,
-        "2025-10-04": 8530976
+        "2025-10-04": 8534830
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/vH3sX3tJ9wg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=vH3sX3tJ9wg",
-      "rank_change_1d": 0,
-      "rank_change_7d": -8
+      "previous_rank_daily": null,
+      "rank_daily": 13,
+      "previous_rank_weekly": null,
+      "rank_weekly": 12
+    },
+    "Taylor Swift - The Fate of Ophelia (Visualizer)": {
+      "views": 5408485,
+      "previous_views": 5330108,
+      "views_history": {
+        "2025-10-03": 673066,
+        "2025-10-04": 5408485
+      },
+      "last_updated": "2025-10-04",
+      "thumbnail": "https://i.ytimg.com/vi/svcboYY81wU/mqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=svcboYY81wU",
+      "previous_rank_daily": null,
+      "rank_daily": 1
     },
     "Doja Cat - Gorgeous (Official Video)": {
-      "views": 5378333,
-      "previous_views": 5376204,
+      "views": 5381723,
+      "previous_views": 5378333,
       "views_history": {
         "2025-09-27": 1871675,
         "2025-09-28": 2853159,
@@ -46,39 +62,31 @@
         "2025-10-01": 4535334,
         "2025-10-02": 4867035,
         "2025-10-03": 5161169,
-        "2025-10-04": 5378333
+        "2025-10-04": 5381723
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/nBJRaflBDBg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=nBJRaflBDBg",
-      "rank_change_1d": -3,
-      "rank_change_7d": -6
-    },
-    "Taylor Swift - The Fate of Ophelia (Visualizer)": {
-      "views": 5330108,
-      "previous_views": 5282877,
-      "views_history": {
-        "2025-10-03": 673066,
-        "2025-10-04": 5330108
-      },
-      "last_updated": "2025-10-04",
-      "thumbnail": "https://i.ytimg.com/vi/svcboYY81wU/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=svcboYY81wU",
-      "rank_change_1d": 2
+      "previous_rank_daily": null,
+      "rank_daily": 10,
+      "previous_rank_weekly": null,
+      "rank_weekly": 7
     },
     "Taylor Swift - The Life of a Showgirl (feat. Sabrina Carpenter) (Visualizer)": {
-      "views": 3820087,
-      "previous_views": 3805579,
+      "views": 3859316,
+      "previous_views": 3820087,
       "views_history": {
-        "2025-10-04": 3820087
+        "2025-10-04": 3859316
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/slUhVTAznMo/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=slUhVTAznMo"
+      "link": "https://www.youtube.com/watch?v=slUhVTAznMo",
+      "previous_rank_daily": null,
+      "rank_daily": 26
     },
     "Tame Impala - Dracula (Official Video)": {
-      "views": 3354820,
-      "previous_views": 3353309,
+      "views": 3357432,
+      "previous_views": 3354820,
       "views_history": {
         "2025-09-27": 909706,
         "2025-09-28": 1925402,
@@ -87,73 +95,79 @@
         "2025-10-01": 2723153,
         "2025-10-02": 2952386,
         "2025-10-03": 3171628,
-        "2025-10-04": 3354820
+        "2025-10-04": 3357432
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/xnP7qKxwzjg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xnP7qKxwzjg",
-      "rank_change_1d": -1,
-      "rank_change_7d": -5
+      "previous_rank_daily": null,
+      "rank_daily": 11,
+      "previous_rank_weekly": null,
+      "rank_weekly": 11
     },
     "Taylor Swift - Opalite (Visualizer)": {
-      "views": 2949868,
-      "previous_views": 2938676,
+      "views": 2978193,
+      "previous_views": 2949868,
       "views_history": {
         "2025-10-03": 460752,
-        "2025-10-04": 2949868
+        "2025-10-04": 2978193
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/4FUIEcnvT04/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=4FUIEcnvT04",
-      "rank_change_1d": 2
+      "previous_rank_daily": null,
+      "rank_daily": 2
     },
     "\u200b@POLLY.. \u274c @SamiGofficial - Poti Sa-mi Iei Tot (Doamna Si Vagabondu) | Official\u00a0Video": {
-      "views": 2384828,
-      "previous_views": 2379388,
+      "views": 2397760,
+      "previous_views": 2384828,
       "views_history": {
         "2025-09-30": 1229159,
         "2025-10-01": 1572474,
         "2025-10-02": 1809132,
         "2025-10-03": 2038864,
-        "2025-10-04": 2384828
+        "2025-10-04": 2397760
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/0hAMDBQVwrg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0hAMDBQVwrg",
-      "rank_change_1d": 4
+      "previous_rank_daily": null,
+      "rank_daily": 5
     },
     "Konstantinos Argiros x Noizy - Nero (Official Music Video)": {
-      "views": 1848838,
-      "previous_views": 1839306,
+      "views": 1867594,
+      "previous_views": 1848838,
       "views_history": {
         "2025-10-01": 590612,
         "2025-10-02": 1005554,
         "2025-10-03": 1408967,
-        "2025-10-04": 1848838
+        "2025-10-04": 1867594
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/MzFTiyfvwUE/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=MzFTiyfvwUE",
-      "rank_change_1d": 1
+      "previous_rank_daily": null,
+      "rank_daily": 4
     },
     "DON XHONI - ZONA 24": {
-      "views": 1829844,
-      "previous_views": 1825362,
+      "views": 1839275,
+      "previous_views": 1829844,
       "views_history": {
         "2025-09-30": 801011,
         "2025-10-01": 1019599,
         "2025-10-02": 1284346,
         "2025-10-03": 1548141,
-        "2025-10-04": 1829844
+        "2025-10-04": 1839275
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/ioSnvZ_qm0o/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ioSnvZ_qm0o",
-      "rank_change_1d": 1
+      "previous_rank_daily": null,
+      "rank_daily": 7
     },
     "MARIN - AUTOPSIA (Official Movie)": {
-      "views": 1817469,
-      "previous_views": 1816083,
+      "views": 1821234,
+      "previous_views": 1817469,
       "views_history": {
         "2025-09-25": 323692,
         "2025-09-26": 549758,
@@ -164,98 +178,108 @@
         "2025-10-01": 1455779,
         "2025-10-02": 1581853,
         "2025-10-03": 1696503,
-        "2025-10-04": 1817469
+        "2025-10-04": 1821234
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/3eJGl_VaiAM/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3eJGl_VaiAM",
-      "rank_change_1d": 2,
-      "rank_change_7d": 1
+      "previous_rank_daily": null,
+      "rank_daily": 15,
+      "previous_rank_weekly": null,
+      "rank_weekly": 15
     },
     "Morgan Wallen - I Got Better (Official Music Video)": {
-      "views": 1717428,
-      "previous_views": 1715971,
+      "views": 1721072,
+      "previous_views": 1717428,
       "views_history": {
-        "2025-10-04": 1717428
+        "2025-10-04": 1721072
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/hwUixddbmrQ/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=hwUixddbmrQ"
+      "link": "https://www.youtube.com/watch?v=hwUixddbmrQ",
+      "previous_rank_daily": null,
+      "rank_daily": 27
     },
     "Doja Cat - Stranger (Official Video)": {
-      "views": 1653863,
-      "previous_views": 1651869,
+      "views": 1659014,
+      "previous_views": 1653863,
       "views_history": {
         "2025-10-02": 1144444,
         "2025-10-03": 1425426,
-        "2025-10-04": 1653863
+        "2025-10-04": 1659014
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/U-124RmcV7I/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=U-124RmcV7I",
-      "rank_change_1d": -1
+      "previous_rank_daily": null,
+      "rank_daily": 8
     },
     "Florin Cercel - Ma bate vantul mereu (Official Video) | Manele TV": {
-      "views": 1243185,
-      "previous_views": 1239061,
+      "views": 1250541,
+      "previous_views": 1243185,
       "views_history": {
         "2025-09-29": 340912,
         "2025-09-30": 512778,
         "2025-10-01": 664256,
         "2025-10-02": 849712,
         "2025-10-03": 1029892,
-        "2025-10-04": 1243185
+        "2025-10-04": 1250541
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/ryTfgt6hls0/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ryTfgt6hls0",
-      "rank_change_1d": 2
+      "previous_rank_daily": null,
+      "rank_daily": 9
     },
     "Christina Perri - A Thousand Years (Lyrics)": {
-      "views": 1113402,
-      "previous_views": 1110057,
+      "views": 1119194,
+      "previous_views": 1113402,
       "views_history": {
         "2025-09-20": 902204,
         "2025-09-21": 1159292,
         "2025-09-22": 1174293,
         "2025-09-23": 1184277,
         "2025-10-03": 812587,
-        "2025-10-04": 1113402
+        "2025-10-04": 1119194
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/NNHRgbQR_iI/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NNHRgbQR_iI",
-      "rank_change_1d": -4
+      "previous_rank_daily": null,
+      "rank_daily": 6
     },
     "RAYE - WHERE IS MY HUSBAND! (Live on The Graham Norton show)": {
-      "views": 1019465,
-      "previous_views": 1018115,
+      "views": 1022247,
+      "previous_views": 1019465,
       "views_history": {
-        "2025-10-04": 1019465
+        "2025-10-04": 1022247
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/yUJLvaU9WCA/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=yUJLvaU9WCA"
+      "link": "https://www.youtube.com/watch?v=yUJLvaU9WCA",
+      "previous_rank_daily": null,
+      "rank_daily": 28
     },
     "FaTTi - 1000 T\u2018ZEZA [Official Video]": {
-      "views": 1017124,
-      "previous_views": 1015351,
+      "views": 1020401,
+      "previous_views": 1017124,
       "views_history": {
         "2025-09-29": 374862,
         "2025-09-30": 506219,
         "2025-10-01": 635014,
         "2025-10-02": 762819,
         "2025-10-03": 887622,
-        "2025-10-04": 1017124
+        "2025-10-04": 1020401
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/6nBtRqlrFT8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=6nBtRqlrFT8",
-      "rank_change_1d": 1
+      "previous_rank_daily": null,
+      "rank_daily": 14
     },
     "Olivia Dean - So Easy (To Fall In Love)": {
-      "views": 1013932,
-      "previous_views": 1012620,
+      "views": 1016557,
+      "previous_views": 1013932,
       "views_history": {
         "2025-09-28": 258813,
         "2025-09-29": 380362,
@@ -263,31 +287,33 @@
         "2025-10-01": 639787,
         "2025-10-02": 769370,
         "2025-10-03": 899154,
-        "2025-10-04": 1013932
+        "2025-10-04": 1016557
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/3sur4BmjQt8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3sur4BmjQt8",
-      "rank_change_1d": -2
+      "previous_rank_daily": null,
+      "rank_daily": 16
     },
     "Man I Need": {
-      "views": 905330,
-      "previous_views": 902732,
+      "views": 909893,
+      "previous_views": 905330,
       "views_history": {
         "2025-09-30": 181937,
         "2025-10-01": 350711,
         "2025-10-02": 542550,
         "2025-10-03": 728182,
-        "2025-10-04": 905330
+        "2025-10-04": 909893
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/fsGjRf-N71I/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fsGjRf-N71I",
-      "rank_change_1d": -1
+      "previous_rank_daily": null,
+      "rank_daily": 12
     },
     "The Neighbourhood - Sweater Weather (Lyrics)": {
-      "views": 890276,
-      "previous_views": 890047,
+      "views": 890924,
+      "previous_views": 890276,
       "views_history": {
         "2025-09-24": 799170,
         "2025-09-28": 2477104,
@@ -295,16 +321,17 @@
         "2025-09-30": 3168623,
         "2025-10-02": 730222,
         "2025-10-03": 853041,
-        "2025-10-04": 890276
+        "2025-10-04": 890924
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/P10D0vYC7tU/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=P10D0vYC7tU",
-      "rank_change_1d": -4
+      "previous_rank_daily": null,
+      "rank_daily": 20
     },
     "Hozier - Take Me To Church (Lyrics)": {
-      "views": 771366,
-      "previous_views": 771168,
+      "views": 771748,
+      "previous_views": 771366,
       "views_history": {
         "2025-09-17": 766983,
         "2025-09-18": 847053,
@@ -312,16 +339,17 @@
         "2025-10-01": 650862,
         "2025-10-02": 715026,
         "2025-10-03": 746163,
-        "2025-10-04": 771366
+        "2025-10-04": 771748
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/tV4j2LJLmI8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=tV4j2LJLmI8",
-      "rank_change_1d": -1
+      "previous_rank_daily": null,
+      "rank_daily": 22
     },
     "GeeYou x Paperboytripz -  ESKETIT (Official Music Video)": {
-      "views": 450651,
-      "previous_views": 450599,
+      "views": 450800,
+      "previous_views": 450651,
       "views_history": {
         "2025-09-27": 52429,
         "2025-09-28": 81947,
@@ -330,42 +358,47 @@
         "2025-10-01": 347642,
         "2025-10-02": 429822,
         "2025-10-03": 440715,
-        "2025-10-04": 450651
+        "2025-10-04": 450800
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/yleWVv2jvG8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=yleWVv2jvG8",
-      "rank_change_1d": 1,
-      "rank_change_7d": 2
+      "previous_rank_daily": null,
+      "rank_daily": 24,
+      "previous_rank_weekly": null,
+      "rank_weekly": 22
     },
     "Lewis Capaldi - Something In The Heavens (Re-Imagined)": {
-      "views": 422805,
-      "previous_views": 422279,
+      "views": 423674,
+      "previous_views": 422805,
       "views_history": {
         "2025-09-30": 231231,
         "2025-10-01": 277027,
         "2025-10-02": 327588,
         "2025-10-03": 377363,
-        "2025-10-04": 422805
+        "2025-10-04": 423674
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/aVUuXuzd7nY/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=aVUuXuzd7nY",
-      "rank_change_1d": 1
+      "previous_rank_daily": null,
+      "rank_daily": 19
     },
     "Conan Gray - The Subway (Chappell Roan cover) in the Live Lounge": {
-      "views": 332708,
-      "previous_views": 332084,
+      "views": 333705,
+      "previous_views": 332708,
       "views_history": {
-        "2025-10-04": 332708
+        "2025-10-04": 333705
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/4fhKnUg6Mhg/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=4fhKnUg6Mhg"
+      "link": "https://www.youtube.com/watch?v=4fhKnUg6Mhg",
+      "previous_rank_daily": null,
+      "rank_daily": 29
     },
     "Lil Macks - Daily Duppy | GRM Daily": {
-      "views": 184143,
-      "previous_views": 184085,
+      "views": 184282,
+      "previous_views": 184143,
       "views_history": {
         "2025-09-26": 28645,
         "2025-09-27": 63166,
@@ -375,74 +408,82 @@
         "2025-10-01": 148963,
         "2025-10-02": 162637,
         "2025-10-03": 175521,
-        "2025-10-04": 184143
+        "2025-10-04": 184282
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/TTXajsSUrjM/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TTXajsSUrjM",
-      "rank_change_1d": -1,
-      "rank_change_7d": 0
+      "previous_rank_daily": null,
+      "rank_daily": 25,
+      "previous_rank_weekly": null,
+      "rank_weekly": 25
     },
     "D-Block Europe - Wrongs ft. @liltjay (Official Music Video)": {
-      "views": 165845,
-      "previous_views": 164737,
+      "views": 169584,
+      "previous_views": 165845,
       "views_history": {
         "2025-10-03": 66622,
-        "2025-10-04": 165845
+        "2025-10-04": 169584
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/Kq6AkngH2e8/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Kq6AkngH2e8",
-      "rank_change_1d": 2
+      "previous_rank_daily": null,
+      "rank_daily": 17
     },
     "Olivia Dean - Love Me Not in the Live Lounge": {
-      "views": 109526,
-      "previous_views": 109151,
+      "views": 110196,
+      "previous_views": 109526,
       "views_history": {
         "2025-10-03": 75517,
-        "2025-10-04": 109526
+        "2025-10-04": 110196
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/BcQnHzrc24Y/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=BcQnHzrc24Y",
-      "rank_change_1d": -3
+      "previous_rank_daily": null,
+      "rank_daily": 21
     },
     "MEEKZ - BK2LIFE": {
-      "views": 75631,
-      "previous_views": 75116,
+      "views": 76678,
+      "previous_views": 75631,
       "views_history": {
         "2025-10-03": 23856,
-        "2025-10-04": 75631
+        "2025-10-04": 76678
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/bUjdg9tBiKE/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=bUjdg9tBiKE",
-      "rank_change_1d": 5
+      "previous_rank_daily": null,
+      "rank_daily": 18
     },
     "Trizz x Kwengface - BullsEye (Official Music Video) @kwengfaceFromTheViet ": {
-      "views": 36085,
-      "previous_views": 36007,
+      "views": 36256,
+      "previous_views": 36085,
       "views_history": {
         "2025-10-03": 24478,
-        "2025-10-04": 36085
+        "2025-10-04": 36256
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/JhYy03QmJ-E/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=JhYy03QmJ-E",
-      "rank_change_1d": -1
+      "previous_rank_daily": null,
+      "rank_daily": 23
     },
     "Lil Macks - Amsterdam (Official Video)": {
-      "views": 31762,
-      "previous_views": 31629,
+      "views": 32040,
+      "previous_views": 31762,
       "views_history": {
-        "2025-10-04": 31762
+        "2025-10-04": 32040
       },
       "last_updated": "2025-10-04",
       "thumbnail": "https://i.ytimg.com/vi/GST5Ds-Dtec/mqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=GST5Ds-Dtec"
+      "link": "https://www.youtube.com/watch?v=GST5Ds-Dtec",
+      "previous_rank_daily": null,
+      "rank_daily": 30
     },
     "The Ba***ds Of Bollywood: Ghafoor (Song) | Aryan K | Shashwat, Shilpa, Ujwal | Tamannaah, Farah Khan": {
-      "views": 29481754,
+      "views": 29499509,
       "previous_views": 27996611,
       "views_history": {
         "2025-09-21": 9873591,
@@ -463,10 +504,12 @@
       "thumbnail": "https://i.ytimg.com/vi/WsllF4THOYk/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=WsllF4THOYk",
       "rank_change_1d": -2,
-      "rank_change_7d": -1
+      "rank_change_7d": -1,
+      "previous_rank_weekly": null,
+      "rank_weekly": 3
     },
     "RAYE - WHERE IS MY HUSBAND! (Official Music Video)": {
-      "views": 7486223,
+      "views": 7497414,
       "previous_views": 6633424,
       "views_history": {
         "2025-09-20": 752960,
@@ -488,10 +531,12 @@
       "thumbnail": "https://i.ytimg.com/vi/rK5TyISxZ_M/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=rK5TyISxZ_M",
       "rank_change_1d": 1,
-      "rank_change_7d": 4
+      "rank_change_7d": 4,
+      "previous_rank_weekly": null,
+      "rank_weekly": 8
     },
     "TIT FOR TAT": {
-      "views": 1673257,
+      "views": 1675645,
       "previous_views": 1368105,
       "views_history": {
         "2025-09-29": 787677,
@@ -507,7 +552,7 @@
       "rank_change_7d": null
     },
     "Taylor Swift - Elizabeth Taylor (Visualizer)": {
-      "views": 2351910,
+      "views": 2371935,
       "previous_views": null,
       "views_history": {
         "2025-10-03": 387658
@@ -519,7 +564,7 @@
       "rank_change_7d": null
     },
     "Nice To Each Other": {
-      "views": 343349,
+      "views": 344319,
       "previous_views": 230248,
       "views_history": {
         "2025-10-02": 230248,
@@ -532,7 +577,7 @@
       "rank_change_7d": null
     },
     "PERFECT - Guru Randhawa, Varun Dhawan, Janhvi Kapoor | Sunny Sanskari Ki Tulsi Kumari": {
-      "views": 30551248,
+      "views": 30567607,
       "previous_views": 28793764,
       "views_history": {
         "2025-09-20": 12302165,
@@ -553,10 +598,12 @@
       "thumbnail": "https://i.ytimg.com/vi/8e1S7Y5KAFM/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=8e1S7Y5KAFM",
       "rank_change_1d": null,
-      "rank_change_7d": 7
+      "rank_change_7d": 7,
+      "previous_rank_weekly": null,
+      "rank_weekly": 4
     },
     "Cardi B - Safe (feat. Kehlani) [Official Music Video]": {
-      "views": 11593443,
+      "views": 11603082,
       "previous_views": 10020704,
       "views_history": {
         "2025-09-20": 2022970,
@@ -577,10 +624,12 @@
       "thumbnail": "https://i.ytimg.com/vi/E_0y8bmIATM/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=E_0y8bmIATM",
       "rank_change_1d": null,
-      "rank_change_7d": 5
+      "rank_change_7d": 5,
+      "previous_rank_weekly": null,
+      "rank_weekly": 5
     },
     "Corbyn Besson & TZUYU (of TWICE) - Blink (Official Music Video)": {
-      "views": 3975481,
+      "views": 3982514,
       "previous_views": 2940710,
       "views_history": {
         "2025-09-29": 2099494,
@@ -595,7 +644,7 @@
       "rank_change_7d": null
     },
     "Anne-Marie - DEPRESSED (Official Video)": {
-      "views": 1801821,
+      "views": 1804148,
       "previous_views": 1542405,
       "views_history": {
         "2025-09-20": 99896,
@@ -616,10 +665,12 @@
       "thumbnail": "https://i.ytimg.com/vi/3TPOocxXoWA/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3TPOocxXoWA",
       "rank_change_1d": null,
-      "rank_change_7d": 2
+      "rank_change_7d": 2,
+      "previous_rank_weekly": null,
+      "rank_weekly": 19
     },
     "TKANDZ - Now Or Never (heavenly audio) | Official Audio": {
-      "views": 1246754,
+      "views": 1249526,
       "previous_views": 925568,
       "views_history": {
         "2025-09-26": 416938,
@@ -634,10 +685,12 @@
       "thumbnail": "https://i.ytimg.com/vi/BM0dbamY2Rw/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=BM0dbamY2Rw",
       "rank_change_1d": null,
-      "rank_change_7d": 5
+      "rank_change_7d": 5,
+      "previous_rank_weekly": null,
+      "rank_weekly": 18
     },
     "Alex Botea x Laura Bruma - Din Corason \u2764\ufe0f\u200d\ud83d\udd25 | Official Video": {
-      "views": 1128302,
+      "views": 1131744,
       "previous_views": 854410,
       "views_history": {
         "2025-09-26": 288484,
@@ -652,10 +705,12 @@
       "thumbnail": "https://i.ytimg.com/vi/ih-qazdHjpE/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ih-qazdHjpE",
       "rank_change_1d": null,
-      "rank_change_7d": 5
+      "rank_change_7d": 5,
+      "previous_rank_weekly": null,
+      "rank_weekly": 17
     },
     "Chip - Grime Scene Saviours (Reloaded) [Music Video] | GRM Daily": {
-      "views": 459963,
+      "views": 460068,
       "previous_views": 444837,
       "views_history": {
         "2025-09-19": 92465,
@@ -677,10 +732,12 @@
       "thumbnail": "https://i.ytimg.com/vi/b1hu_uiVvWY/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=b1hu_uiVvWY",
       "rank_change_1d": null,
-      "rank_change_7d": 0
+      "rank_change_7d": 0,
+      "previous_rank_weekly": null,
+      "rank_weekly": 28
     },
     "Twin S - Gang Signs [Music Video] | GRM Daily": {
-      "views": 328397,
+      "views": 328508,
       "previous_views": 305803,
       "views_history": {
         "2025-09-19": 69827,
@@ -702,10 +759,12 @@
       "thumbnail": "https://i.ytimg.com/vi/qfN1bK1dmRE/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=qfN1bK1dmRE",
       "rank_change_1d": null,
-      "rank_change_7d": 2
+      "rank_change_7d": 2,
+      "previous_rank_weekly": null,
+      "rank_weekly": 27
     },
     "Bol Kaffara Kya Hoga - Ek Deewane Ki Deewaniyat | Harshvardhan, Sonam | Chetas, Neha, Farhan, Lijo": {
-      "views": 71072553,
+      "views": 71096143,
       "previous_views": 67428319,
       "views_history": {
         "2025-09-17": 32495135,
@@ -728,10 +787,12 @@
       "thumbnail": "https://i.ytimg.com/vi/r_lxE7kF0Fo/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=r_lxE7kF0Fo",
       "rank_change_1d": null,
-      "rank_change_7d": 3
+      "rank_change_7d": 3,
+      "previous_rank_weekly": null,
+      "rank_weekly": 2
     },
     "Sia, Sean Paul - Cheap Thrills (Lyrics)": {
-      "views": 2329392,
+      "views": 2331169,
       "previous_views": 2036360,
       "views_history": {
         "2025-09-28": 1442553,
@@ -746,7 +807,7 @@
       "rank_change_7d": null
     },
     "Justin Bieber - SPEED DEMON": {
-      "views": 5689673,
+      "views": 5693095,
       "previous_views": 4242653,
       "views_history": {
         "2025-09-25": 1557434,
@@ -760,10 +821,12 @@
       "thumbnail": "https://i.ytimg.com/vi/4WcD2ncHMVs/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=4WcD2ncHMVs",
       "rank_change_1d": null,
-      "rank_change_7d": -1
+      "rank_change_7d": -1,
+      "previous_rank_weekly": null,
+      "rank_weekly": 10
     },
     "Adrian Minune \u274c @VladutaLupau - Dumnezeu Nu Uneste Inimi Din Intamplare | Official Video": {
-      "views": 2168887,
+      "views": 2174552,
       "previous_views": 1412073,
       "views_history": {
         "2025-09-27": 884504,
@@ -773,10 +836,12 @@
       "thumbnail": "https://i.ytimg.com/vi/O1QTv78bsBg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=O1QTv78bsBg",
       "rank_change_1d": null,
-      "rank_change_7d": -6
+      "rank_change_7d": -6,
+      "previous_rank_weekly": null,
+      "rank_weekly": 13
     },
     "I REALLY DO (MUSIC VIDEO) KARAN AUJLA| IKKY | Aveera | Latest Punjabi Songs 2025": {
-      "views": 19068225,
+      "views": 19079602,
       "previous_views": 16707028,
       "views_history": {
         "2025-09-18": 9610299,
@@ -796,10 +861,12 @@
       "thumbnail": "https://i.ytimg.com/vi/K9R7KcaettM/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=K9R7KcaettM",
       "rank_change_1d": null,
-      "rank_change_7d": 4
+      "rank_change_7d": 4,
+      "previous_rank_weekly": null,
+      "rank_weekly": 9
     },
     "Cardi B - Pretty & Petty [Official Audio]": {
-      "views": 3212379,
+      "views": 3214223,
       "previous_views": 2367574,
       "views_history": {
         "2025-09-22": 1011530,
@@ -815,10 +882,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Hnt0V_FP8Bo/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Hnt0V_FP8Bo",
       "rank_change_1d": null,
-      "rank_change_7d": 2
+      "rank_change_7d": 2,
+      "previous_rank_weekly": null,
+      "rank_weekly": 16
     },
     "Aerosmith, YUNGBLUD - My Only Angel (Official Visualizer)": {
-      "views": 2016967,
+      "views": 2018260,
       "previous_views": 1630828,
       "views_history": {
         "2025-09-21": 635068,
@@ -835,10 +904,12 @@
       "thumbnail": "https://i.ytimg.com/vi/74mV9qwlCgg/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=74mV9qwlCgg",
       "rank_change_1d": null,
-      "rank_change_7d": -1
+      "rank_change_7d": -1,
+      "previous_rank_weekly": null,
+      "rank_weekly": 21
     },
     "Lewis Capaldi - Something In The Heavens (Live from Abbey Road)": {
-      "views": 1210416,
+      "views": 1211549,
       "previous_views": 932172,
       "views_history": {
         "2025-09-27": 880061,
@@ -849,10 +920,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Kf8vjnkAFp4/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Kf8vjnkAFp4",
       "rank_change_1d": null,
-      "rank_change_7d": -15
+      "rank_change_7d": -15,
+      "previous_rank_weekly": null,
+      "rank_weekly": 23
     },
     "D-BLOCK EUROPE (Young Adz) POUR THE MAKA [Official Video]": {
-      "views": 698256,
+      "views": 698536,
       "previous_views": 600824,
       "views_history": {
         "2025-09-12": 59764,
@@ -878,7 +951,9 @@
       "thumbnail": "https://i.ytimg.com/vi/KLgYmKVDDJI/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=KLgYmKVDDJI",
       "rank_change_1d": null,
-      "rank_change_7d": 0
+      "rank_change_7d": 0,
+      "previous_rank_weekly": null,
+      "rank_weekly": 26
     },
     "1 LIFE": {
       "views": 39399,
@@ -892,10 +967,12 @@
       "thumbnail": "https://i.ytimg.com/vi/CuX3Xq1t6tY/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=CuX3Xq1t6tY",
       "rank_change_1d": null,
-      "rank_change_7d": -2
+      "rank_change_7d": -2,
+      "previous_rank_weekly": null,
+      "rank_weekly": 29
     },
     "Dapper Dan (Official Video) Navaan Sandhu |Jay B Singh | New Punjabi Songs 2025": {
-      "views": 11070420,
+      "views": 11074539,
       "previous_views": 7395250,
       "views_history": {
         "2025-09-22": 6181019,
@@ -910,10 +987,12 @@
       "thumbnail": "https://i.ytimg.com/vi/BJbgZyHTptc/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=BJbgZyHTptc",
       "rank_change_1d": null,
-      "rank_change_7d": 11
+      "rank_change_7d": 11,
+      "previous_rank_weekly": null,
+      "rank_weekly": 6
     },
     "Billie Eilish - WILDFLOWER (COLORS Performance)": {
-      "views": 5689243,
+      "views": 5691953,
       "previous_views": 4415972,
       "views_history": {
         "2025-09-22": 2004235,
@@ -928,10 +1007,12 @@
       "thumbnail": "https://i.ytimg.com/vi/210Uq0WmBDI/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=210Uq0WmBDI",
       "rank_change_1d": null,
-      "rank_change_7d": 1
+      "rank_change_7d": 1,
+      "previous_rank_weekly": null,
+      "rank_weekly": 14
     },
     "Madison Beer - yes baby (Official Music Video)": {
-      "views": 2400159,
+      "views": 2401809,
       "previous_views": 1803851,
       "views_history": {
         "2025-09-20": 504448,
@@ -948,10 +1029,12 @@
       "thumbnail": "https://i.ytimg.com/vi/iFmNWm60bjA/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=iFmNWm60bjA",
       "rank_change_1d": null,
-      "rank_change_7d": -1
+      "rank_change_7d": -1,
+      "previous_rank_weekly": null,
+      "rank_weekly": 20
     },
     "Florence + The Machine - One of the Greats (Official Visualizer)": {
-      "views": 727618,
+      "views": 728212,
       "previous_views": 419155,
       "views_history": {
         "2025-09-27": 419155,
@@ -961,10 +1044,12 @@
       "thumbnail": "https://i.ytimg.com/vi/t7XL4ehHoE0/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=t7XL4ehHoE0",
       "rank_change_1d": null,
-      "rank_change_7d": -10
+      "rank_change_7d": -10,
+      "previous_rank_weekly": null,
+      "rank_weekly": 24
     },
     "Saiyaara Reprise - Female | Full Song | Ahaan, Aneet | Tanishk, Faheem, Arslan | Shreya | Irshad": {
-      "views": 32560932,
+      "views": 32600298,
       "previous_views": 23253283,
       "views_history": {
         "2025-09-13": 3601719,
@@ -987,10 +1072,12 @@
       "thumbnail": "https://i.ytimg.com/vi/asG7cwxi1sA/mqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=asG7cwxi1sA",
       "rank_change_1d": null,
-      "rank_change_7d": 2
+      "rank_change_7d": 2,
+      "previous_rank_weekly": null,
+      "rank_weekly": 1
     },
     "Jax Toy (feat. Michael Kovach & Amanda Hufford) \u3010THE AMAZING DIGITAL CIRCUS FAN MUSIC VIDEO\u3011": {
-      "views": 9781071,
+      "views": 9785867,
       "previous_views": 7179428,
       "views_history": {
         "2025-09-14": 1584219,
@@ -1014,7 +1101,7 @@
       "rank_change_7d": null
     },
     "First Love (Official Music Video) Garry Sandhu Ft Manpreet Toor | Punjabi Song 2025": {
-      "views": 4554622,
+      "views": 4557189,
       "previous_views": 2865336,
       "views_history": {
         "2025-09-21": 2367688,
@@ -1031,7 +1118,7 @@
       "rank_change_7d": null
     },
     "Lewis Capaldi - Something In The Heavens (Official Visualizer)": {
-      "views": 697204,
+      "views": 697717,
       "previous_views": 445844,
       "views_history": {
         "2025-09-20": 161613,
@@ -1049,7 +1136,7 @@
       "rank_change_7d": null
     },
     "Pozer - Jersey King (Official Video)": {
-      "views": 534110,
+      "views": 534361,
       "previous_views": 411787,
       "views_history": {
         "2025-09-12": 50168,
@@ -1075,7 +1162,7 @@
       "rank_change_7d": null
     },
     "SWERVIN": {
-      "views": 174081,
+      "views": 174298,
       "previous_views": 67677,
       "views_history": {
         "2025-09-23": 47863,
@@ -1090,7 +1177,7 @@
       "rank_change_7d": null
     },
     "Mowgs - Plugged In w/ Fumez The Engineer | Mixtape Madness": {
-      "views": 91948,
+      "views": 91997,
       "previous_views": 47597,
       "views_history": {
         "2025-09-25": 47597,
@@ -1103,7 +1190,7 @@
       "rank_change_7d": null
     },
     "SavNDO - Meant To Be (MUSIC VIDEO)": {
-      "views": 85894,
+      "views": 85957,
       "previous_views": 48150,
       "views_history": {
         "2025-09-23": 34083,
@@ -1118,7 +1205,7 @@
       "rank_change_7d": null
     },
     "Miley Cyrus - Secrets (Official Video) ft. Lindsey Buckingham, Mick Fleetwood": {
-      "views": 2062478,
+      "views": 2063875,
       "previous_views": 1202277,
       "views_history": {
         "2025-09-21": 719458,
@@ -1134,7 +1221,7 @@
       "rank_change_7d": null
     },
     "MK - Dior (London Popup Recap) ft. Chrystal": {
-      "views": 375737,
+      "views": 376097,
       "previous_views": 265255,
       "views_history": {
         "2025-09-17": 128966,
@@ -1154,7 +1241,7 @@
       "rank_change_7d": null
     },
     "Stardom - Daily Duppy | GRM Daily": {
-      "views": 274341,
+      "views": 274396,
       "previous_views": null,
       "views_history": {
         "2025-09-25": 147755
@@ -1166,7 +1253,7 @@
       "rank_change_7d": null
     },
     "Young Thug - Miss My Dogs [Official Video]": {
-      "views": 4799965,
+      "views": 4801566,
       "previous_views": 3388530,
       "views_history": {
         "2025-09-14": 806437,
@@ -1188,7 +1275,7 @@
       "rank_change_7d": null
     },
     "Cardi B -  Dead (feat. Summer Walker) [Official Audio]": {
-      "views": 2523419,
+      "views": 2524239,
       "previous_views": null,
       "views_history": {
         "2025-09-24": 1509027
@@ -1200,7 +1287,7 @@
       "rank_change_7d": null
     },
     "Ed Sheeran - Shape of You (Lyrics)": {
-      "views": 1172530,
+      "views": 1172605,
       "previous_views": 1096675,
       "views_history": {
         "2025-09-21": 859573,
@@ -1215,7 +1302,7 @@
       "rank_change_7d": null
     },
     "Mazza L20 ft Aitch - New Money (official music video)": {
-      "views": 1000454,
+      "views": 1000880,
       "previous_views": 813302,
       "views_history": {
         "2025-09-05": 55572,
@@ -1246,7 +1333,7 @@
       "rank_change_7d": null
     },
     "Dolly Parton, Kenny Rogers - Islands In The Stream (Lyrics)": {
-      "views": 378975,
+      "views": 379051,
       "previous_views": 327777,
       "views_history": {
         "2025-09-21": 228470,
@@ -1261,7 +1348,7 @@
       "rank_change_7d": null
     },
     "Busygettinlizzy- Deja Vu (Official Music Video)": {
-      "views": 228166,
+      "views": 228231,
       "previous_views": 156778,
       "views_history": {
         "2025-09-13": 34864,
@@ -1283,7 +1370,7 @@
       "rank_change_7d": null
     },
     "Tom MacDonald - CHARLIE": {
-      "views": 9508896,
+      "views": 9509301,
       "previous_views": 8671285,
       "views_history": {
         "2025-09-12": 1868572,
@@ -1305,7 +1392,7 @@
       "rank_change_7d": null
     },
     "Twenty One Pilots - City Walls (Official Video)": {
-      "views": 10629906,
+      "views": 10632053,
       "previous_views": 4825182,
       "views_history": {
         "2025-09-13": 1560421,
@@ -1326,7 +1413,7 @@
       "rank_change_7d": null
     },
     "Ed Sheeran - Camera (Official Music Video)": {
-      "views": 12498086,
+      "views": 12499409,
       "previous_views": 7814577,
       "views_history": {
         "2025-09-13": 999396,
@@ -1346,7 +1433,7 @@
       "rank_change_7d": null
     },
     "Guns and Roses - #TheyCallHimOG | Pawan Kalyan | Emraan Hashmi | Sujeeth | Thaman S | DVV Danayya": {
-      "views": 11328312,
+      "views": 11336350,
       "previous_views": 5624395,
       "views_history": {
         "2025-09-20": 5624395,
@@ -1375,7 +1462,7 @@
       "rank_change_7d": null
     },
     "Lady Gaga - The Dead Dance (Official Music Video)": {
-      "views": 35986352,
+      "views": 35998615,
       "previous_views": 27912231,
       "views_history": {
         "2025-09-04": 3834659,
@@ -1403,7 +1490,7 @@
       "rank_change_7d": null
     },
     "Dani Mocanu \u274c Florin Cercel - Perdoname | Official Video": {
-      "views": 7963632,
+      "views": 7971783,
       "previous_views": 4655191,
       "views_history": {
         "2025-09-07": 469887,
@@ -1428,7 +1515,7 @@
       "rank_change_7d": null
     },
     "Jozi - Po shprehem (Official Video)": {
-      "views": 3504048,
+      "views": 3508003,
       "previous_views": 1832347,
       "views_history": {
         "2025-09-16": 719714,
@@ -1444,7 +1531,7 @@
       "rank_change_7d": null
     },
     "Tate McRae - Revolving door/Sports car (Live From the 2025 MTV VMAs)": {
-      "views": 3105213,
+      "views": 3106763,
       "previous_views": 1746313,
       "views_history": {
         "2025-09-12": 357575,
@@ -1464,7 +1551,7 @@
       "rank_change_7d": null
     },
     "Dido - Thank You (Official 4K Video)": {
-      "views": 2027449,
+      "views": 2027707,
       "previous_views": 1300405,
       "views_history": {
         "2025-09-18": 998554,
@@ -1478,7 +1565,7 @@
       "rank_change_7d": null
     },
     "Lola Young - Manchild (Sabrina Carpenter cover) in the Live Lounge": {
-      "views": 283581,
+      "views": 283687,
       "previous_views": 136427,
       "views_history": {
         "2025-09-18": 98706,
@@ -1492,7 +1579,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - Tears (Official Video)": {
-      "views": 40260579,
+      "views": 40265832,
       "previous_views": 36253932,
       "views_history": {
         "2025-08-29": 1406481,
@@ -1523,7 +1610,7 @@
       "rank_change_7d": null
     },
     "Guns N\u2019 Roses - #TheyCallHimOG | Pawan Kalyan | Emraan Hashmi | Sujeeth | Thaman S | DVV Danayya": {
-      "views": 11328312,
+      "views": 11336350,
       "previous_views": 4567299,
       "views_history": {
         "2025-09-17": 3868444,
@@ -1537,7 +1624,7 @@
       "rank_change_7d": null
     },
     "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Lyrics)": {
-      "views": 3288340,
+      "views": 3288535,
       "previous_views": 2969070,
       "views_history": {
         "2025-09-14": 1525770,
@@ -1554,7 +1641,7 @@
       "rank_change_7d": null
     },
     "Gorillaz - The Happy Dictator ft. Sparks (Official Visualiser)": {
-      "views": 2986676,
+      "views": 2987251,
       "previous_views": 1777949,
       "views_history": {
         "2025-09-12": 435975,
@@ -1573,7 +1660,7 @@
       "rank_change_7d": null
     },
     "Luis Gabriel - Ramai talent | Official Video": {
-      "views": 2736796,
+      "views": 2740769,
       "previous_views": null,
       "views_history": {
         "2025-09-19": 1172697
@@ -1585,7 +1672,7 @@
       "rank_change_7d": null
     },
     "DABABY - SAVE ME (OFFICIAL VIDEO)": {
-      "views": 2055086,
+      "views": 2055220,
       "previous_views": null,
       "views_history": {
         "2025-09-19": 1113351
@@ -1597,7 +1684,7 @@
       "rank_change_7d": null
     },
     "Sia   Elastic Heart Lyrics": {
-      "views": 695839,
+      "views": 695911,
       "previous_views": 599923,
       "views_history": {
         "2025-09-17": 474708,
@@ -1611,7 +1698,7 @@
       "rank_change_7d": null
     },
     "Marky B x Connor John  - Only Fans & Horses [Music Video] PROD. DMC": {
-      "views": 428809,
+      "views": 429169,
       "previous_views": 232767,
       "views_history": {
         "2025-09-08": 41900,
@@ -1634,7 +1721,7 @@
       "rank_change_7d": null
     },
     "The Calling - Wherever You Will Go (Lyrics)": {
-      "views": 1364903,
+      "views": 1364919,
       "previous_views": 1214946,
       "views_history": {
         "2025-09-14": 582067,
@@ -1650,7 +1737,7 @@
       "rank_change_7d": null
     },
     "Wan-Keir Ahoy! The Wankerman Sea Shanty (Satire Song About Keir Starmer)\u201d": {
-      "views": 630716,
+      "views": 630972,
       "previous_views": 464113,
       "views_history": {
         "2025-09-14": 377913,
@@ -1666,7 +1753,7 @@
       "rank_change_7d": null
     },
     "Asco - The Boy's Back (Official Video)": {
-      "views": 397117,
+      "views": 397263,
       "previous_views": 262251,
       "views_history": {
         "2025-09-06": 62450,
@@ -1690,7 +1777,7 @@
       "rank_change_7d": null
     },
     "Trigz HRB - Zartstyle [Music Video] | GRM Daily": {
-      "views": 130866,
+      "views": 130907,
       "previous_views": 69602,
       "views_history": {
         "2025-09-14": 47350,
@@ -1706,7 +1793,7 @@
       "rank_change_7d": null
     },
     "Panwadi | Sunny Sanskari Ki Tulsi Kumari | Varun, Janhvi, Rohit, Sanya| A.P.S,Khesari Lal,Masoom,Dev": {
-      "views": 26151817,
+      "views": 26171668,
       "previous_views": 14894381,
       "views_history": {
         "2025-09-16": 14894381,
@@ -1719,7 +1806,7 @@
       "rank_change_7d": null
     },
     "Saiyaara Full Song | Ahaan Panday, Aneet Padda | Tanishk Bagchi, Faheem A, Arslan N | Irshad Kamil": {
-      "views": 26482025,
+      "views": 26506354,
       "previous_views": 12200089,
       "views_history": {
         "2025-09-07": 3058382,
@@ -1741,7 +1828,7 @@
       "rank_change_7d": null
     },
     "POPPY, AMY LEE, COURTNEY LAPLANTE - End of You (Official Music Video)": {
-      "views": 5181131,
+      "views": 5182280,
       "previous_views": 3775848,
       "views_history": {
         "2025-09-10": 2722912,
@@ -1760,7 +1847,7 @@
       "rank_change_7d": null
     },
     "FINEM - 77777": {
-      "views": 6129561,
+      "views": 6134542,
       "previous_views": 2615989,
       "views_history": {
         "2025-09-09": 865091,
@@ -1779,7 +1866,7 @@
       "rank_change_7d": null
     },
     "KATSEYE (\ucea3\uce20\uc544\uc774) \u201cM.I.A\u201d Visualizer": {
-      "views": 4853933,
+      "views": 4856110,
       "previous_views": 2498037,
       "views_history": {
         "2025-09-11": 1135129,
@@ -1796,7 +1883,7 @@
       "rank_change_7d": null
     },
     "Slim - Games Over (Official Music Video)": {
-      "views": 283255,
+      "views": 283328,
       "previous_views": 184122,
       "views_history": {
         "2025-09-08": 94375,
@@ -1816,7 +1903,7 @@
       "rank_change_7d": null
     },
     "JADE - Silent Disco (Official Visualiser)": {
-      "views": 209186,
+      "views": 209253,
       "previous_views": 79491,
       "views_history": {
         "2025-09-15": 79491,
@@ -1829,7 +1916,7 @@
       "rank_change_7d": null
     },
     "MK - Dior (Official Visualiser) ft. Chrystal": {
-      "views": 375737,
+      "views": 376097,
       "previous_views": null,
       "views_history": {
         "2025-09-16": 77911
@@ -1841,7 +1928,7 @@
       "rank_change_7d": null
     },
     "BABASHA - Cometa | Official Video": {
-      "views": 7415061,
+      "views": 7423918,
       "previous_views": 2471248,
       "views_history": {
         "2025-09-08": 792572,
@@ -1860,7 +1947,7 @@
       "rank_change_7d": null
     },
     "YoungBoy Never Broke Again - Shark [Official Music Video]": {
-      "views": 4471341,
+      "views": 4472505,
       "previous_views": 1678904,
       "views_history": {
         "2025-09-12": 1013153,
@@ -1875,7 +1962,7 @@
       "rank_change_7d": null
     },
     "How Was I Supposed to Know (Lyrics)": {
-      "views": 3319748,
+      "views": 3321363,
       "previous_views": 1090804,
       "views_history": {
         "2025-09-09": 467050,
@@ -1893,7 +1980,7 @@
       "rank_change_7d": null
     },
     "ALCATRAZ | CHANI NATTAN | JAZZY B | INDERPAL MOGA | DR. ZEUS | NEW PUNJABI SONG 2025 | LATEST ": {
-      "views": 4026103,
+      "views": 4027830,
       "previous_views": 1813310,
       "views_history": {
         "2025-09-08": 996919,
@@ -1911,7 +1998,7 @@
       "rank_change_7d": null
     },
     "Stray Kids \"CREED\" Video": {
-      "views": 8467757,
+      "views": 8471064,
       "previous_views": 4475621,
       "views_history": {
         "2025-09-06": 1590770,
@@ -1930,7 +2017,7 @@
       "rank_change_7d": null
     },
     "Fredo - No Comment (Official Video)": {
-      "views": 3097426,
+      "views": 3097983,
       "previous_views": 2423884,
       "views_history": {
         "2025-08-26": 1064478,
@@ -1960,7 +2047,7 @@
       "rank_change_7d": null
     },
     "Toto - Africa (Lyrics)": {
-      "views": 1405854,
+      "views": 1405926,
       "previous_views": 634327,
       "views_history": {
         "2025-09-12": 634327,
@@ -1973,7 +2060,7 @@
       "rank_change_7d": null
     },
     "BAD OMENS - Impose (Official Music Video)": {
-      "views": 1748391,
+      "views": 1748711,
       "previous_views": null,
       "views_history": {
         "2025-09-13": 582096
@@ -1985,7 +2072,7 @@
       "rank_change_7d": null
     },
     "Olivia Dean - Man I Need (Lyric Video)": {
-      "views": 798096,
+      "views": 798869,
       "previous_views": 243166,
       "views_history": {
         "2025-09-10": 146149,
@@ -2000,7 +2087,7 @@
       "rank_change_7d": null
     },
     "Youngs Teflon - Hustlers Don't Die (Part 7)": {
-      "views": 176895,
+      "views": 176933,
       "previous_views": 98087,
       "views_history": {
         "2025-09-07": 37409,
@@ -2018,7 +2105,7 @@
       "rank_change_7d": null
     },
     "aespa \uc5d0\uc2a4\ud30c 'Rich Man' MV": {
-      "views": 35607111,
+      "views": 35614739,
       "previous_views": 26989254,
       "views_history": {
         "2025-09-06": 17247114,
@@ -2036,7 +2123,7 @@
       "rank_change_7d": null
     },
     "\u200b@SaiAbhyankkar - Vizhi Veekura (Music Video)| Saanve Megghana| Sai Smriti|Adesh| Thejo| Think Indie": {
-      "views": 13843346,
+      "views": 13850565,
       "previous_views": 7987706,
       "views_history": {
         "2025-09-09": 6534722,
@@ -2051,7 +2138,7 @@
       "rank_change_7d": null
     },
     "Tame Impala - Loser (Official Video)": {
-      "views": 7500210,
+      "views": 7501498,
       "previous_views": 4919722,
       "views_history": {
         "2025-09-05": 1313123,
@@ -2070,7 +2157,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - When Did You Get Hot? (Official Lyric Video)": {
-      "views": 6842545,
+      "views": 6847119,
       "previous_views": 2767660,
       "views_history": {
         "2025-08-30": 576339,
@@ -2095,7 +2182,7 @@
       "rank_change_7d": null
     },
     "CORTIS (\ucf54\ub974\ud2f0\uc2a4) 'FaSHioN' Official MV": {
-      "views": 9198673,
+      "views": 9209205,
       "previous_views": 2387227,
       "views_history": {
         "2025-09-09": 1391318,
@@ -2110,7 +2197,7 @@
       "rank_change_7d": null
     },
     "DEEWANIYAT Title Track - Ek Deewane Ki Deewaniyat | Harshvardhan Sonam | Vishal ,KaushikGuddu,Kunaal": {
-      "views": 95814613,
+      "views": 95846489,
       "previous_views": 68259168,
       "views_history": {
         "2025-09-02": 44150151,
@@ -2131,7 +2218,7 @@
       "rank_change_7d": null
     },
     "Bijuria | Sunny Sanskari Ki Tulsi Kumari | Varun, Janhvi,Sanya, Rohit | Sonu, Tanishk, Ravi, Asees": {
-      "views": 50421379,
+      "views": 50436081,
       "previous_views": 34545288,
       "views_history": {
         "2025-09-06": 20980221,
@@ -2148,7 +2235,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - House Tour (Official Lyric Video)": {
-      "views": 3660436,
+      "views": 3661557,
       "previous_views": 2029971,
       "views_history": {
         "2025-09-05": 1465077,
@@ -2166,7 +2253,7 @@
       "rank_change_7d": null
     },
     "Katy Perry - The One That Got Away (Lyrics) \"in another life i would be your girl\"": {
-      "views": 2044510,
+      "views": 2044631,
       "previous_views": 1243950,
       "views_history": {
         "2025-09-11": 1266987
@@ -2178,7 +2265,7 @@
       "rank_change_7d": null
     },
     "PRESIDENT - Destroy Me": {
-      "views": 858052,
+      "views": 858361,
       "previous_views": 314875,
       "views_history": {
         "2025-09-10": 291353,
@@ -2191,7 +2278,7 @@
       "rank_change_7d": null
     },
     "Skepta & Fred again.. - London (Visualiser)": {
-      "views": 442184,
+      "views": 442327,
       "previous_views": 200318,
       "views_history": {
         "2025-09-10": 175934,
@@ -2204,7 +2291,7 @@
       "rank_change_7d": null
     },
     "Sabyna - The One Before (Official  Visualiser)": {
-      "views": 196389,
+      "views": 196456,
       "previous_views": 74659,
       "views_history": {
         "2025-09-10": 61694,
@@ -2217,7 +2304,7 @@
       "rank_change_7d": null
     },
     "Oorum Blood | Dude | Pradeep Ranganathan, Mamitha | Sai Abhyankkar| Keerthiswaran|Paal Dabba| Mythri": {
-      "views": 39744088,
+      "views": 39777451,
       "previous_views": 16015618,
       "views_history": {
         "2025-09-05": 11090427,
@@ -2234,7 +2321,7 @@
       "rank_change_7d": null
     },
     "Alan Walker - Faded (Lyrics)": {
-      "views": 1499167,
+      "views": 1499338,
       "previous_views": null,
       "views_history": {
         "2025-09-10": 1083947
@@ -2246,7 +2333,7 @@
       "rank_change_7d": null
     },
     "For A Reason (Official Video) Karan Aujla | Tania  | Ikky | Latest Punjabi Songs 2025": {
-      "views": 89597389,
+      "views": 89647256,
       "previous_views": 47666316,
       "views_history": {
         "2025-08-26": 24159307,
@@ -2272,7 +2359,7 @@
       "rank_change_7d": null
     },
     "99 Nights - The Deer (official song)": {
-      "views": 20365796,
+      "views": 20372344,
       "previous_views": 10502817,
       "views_history": {
         "2025-09-03": 4554055,
@@ -2290,7 +2377,7 @@
       "rank_change_7d": null
     },
     "Your Idol": {
-      "views": 23410420,
+      "views": 23425558,
       "previous_views": 7709688,
       "views_history": {
         "2025-08-31": 1423027,
@@ -2311,7 +2398,7 @@
       "rank_change_7d": null
     },
     "Andrea Bocelli - Who Wants To Live Forever (with Brian May) - Live at \u201cTeatro Del Silenzio\u201d 2024": {
-      "views": 4469557,
+      "views": 4470146,
       "previous_views": 2916199,
       "views_history": {
         "2025-09-01": 1074778,
@@ -2331,7 +2418,7 @@
       "rank_change_7d": null
     },
     "The Chainsmokers - Something Just Like This (feat. Coldplay) Lyrics": {
-      "views": 1610830,
+      "views": 1610946,
       "previous_views": 1160497,
       "views_history": {
         "2025-09-07": 880357,
@@ -2345,7 +2432,7 @@
       "rank_change_7d": null
     },
     "KNEECAP and PAUL HARTNOLL - SAY\u014cNARA (OFFICIAL VIDEO)": {
-      "views": 280687,
+      "views": 280730,
       "previous_views": 170455,
       "views_history": {
         "2025-09-04": 91386,
@@ -2362,7 +2449,7 @@
       "rank_change_7d": null
     },
     "Stray Kids \"\uc090\ucc98\ub9ac (BLEEP)\" Video": {
-      "views": 8900189,
+      "views": 8902675,
       "previous_views": 4569596,
       "views_history": {
         "2025-09-01": 1783458,
@@ -2381,7 +2468,7 @@
       "rank_change_7d": null
     },
     "Eminem - Everybody\u2019s Looking At Me [Official Audio]": {
-      "views": 5391417,
+      "views": 5392229,
       "previous_views": 3857442,
       "views_history": {
         "2025-08-27": 1136115,
@@ -2405,7 +2492,7 @@
       "rank_change_7d": null
     },
     "T3NZU - Danza Kuduro (Remix)": {
-      "views": 3463144,
+      "views": 3464392,
       "previous_views": null,
       "views_history": {
         "2025-09-08": 1643600
@@ -2417,7 +2504,7 @@
       "rank_change_7d": null
     },
     "Halsey - Bad At Love (Lyrics)": {
-      "views": 779037,
+      "views": 779161,
       "previous_views": 482723,
       "views_history": {
         "2025-09-05": 304892,
@@ -2432,7 +2519,7 @@
       "rank_change_7d": null
     },
     "Fadel Chaker - Sahak Isho2  | 2025 | \u0641\u0636\u0644 \u0634\u0627\u0643\u0631 - \u0635\u062d\u0627\u0643 \u0627\u0644\u0634\u0648\u0642": {
-      "views": 71874368,
+      "views": 71909241,
       "previous_views": 31779939,
       "views_history": {
         "2025-08-27": 4019170,
@@ -2455,7 +2542,7 @@
       "rank_change_7d": null
     },
     "How It\u2019s Done": {
-      "views": 19463073,
+      "views": 19473244,
       "previous_views": 5337865,
       "views_history": {
         "2025-08-31": 1430599,
@@ -2474,7 +2561,7 @@
       "rank_change_7d": null
     },
     "Offset, Gunna - Different Species": {
-      "views": 6974757,
+      "views": 6977718,
       "previous_views": 2259174,
       "views_history": {
         "2025-08-31": 818883,
@@ -2513,7 +2600,7 @@
       "rank_change_7d": null
     },
     "The Weeknd - Closing Night": {
-      "views": 5732983,
+      "views": 5735293,
       "previous_views": 1425290,
       "views_history": {
         "2025-09-06": 1425290,
@@ -2526,7 +2613,7 @@
       "rank_change_7d": null
     },
     "Stray Kids \"CEREMONY\" M/V": {
-      "views": 66867480,
+      "views": 66876327,
       "previous_views": 50705503,
       "views_history": {
         "2025-08-22": 2284459,
@@ -2553,7 +2640,7 @@
       "rank_change_7d": null
     },
     "Sergio Ramos - CIBELES (Official Video)": {
-      "views": 11911476,
+      "views": 11913345,
       "previous_views": 4785467,
       "views_history": {
         "2025-09-03": 2633167,
@@ -2568,7 +2655,7 @@
       "rank_change_7d": null
     },
     "What It Sounds Like": {
-      "views": 11904382,
+      "views": 11912182,
       "previous_views": 3981792,
       "views_history": {
         "2025-08-31": 1613308,
@@ -2586,7 +2673,7 @@
       "rank_change_7d": null
     },
     "JUGULAR JUGULAR - Lawrence Oyor ft Greatman Takit": {
-      "views": 2367181,
+      "views": 2371652,
       "previous_views": 931424,
       "views_history": {
         "2025-08-31": 413324,
@@ -2604,7 +2691,7 @@
       "rank_change_7d": null
     },
     "Doja Cat - Jealous Type (Official Video)": {
-      "views": 12255970,
+      "views": 12258730,
       "previous_views": 7932251,
       "views_history": {
         "2025-08-22": 743970,
@@ -2630,7 +2717,7 @@
       "rank_change_7d": null
     },
     "Shubh - Balenci (Official Music Video)": {
-      "views": 17368939,
+      "views": 17377746,
       "previous_views": 6969309,
       "views_history": {
         "2025-08-26": 2497011,
@@ -2652,7 +2739,7 @@
       "rank_change_7d": null
     },
     "Stray Kids \"0801\" Video (Street Ver.)": {
-      "views": 4716713,
+      "views": 4717984,
       "previous_views": 1543934,
       "views_history": {
         "2025-09-04": 1543934,
@@ -2665,7 +2752,7 @@
       "rank_change_7d": null
     },
     "Alban Skenderaj ft. Elgit Doda - MARGARITAR": {
-      "views": 5001695,
+      "views": 5005621,
       "previous_views": 1342863,
       "views_history": {
         "2025-09-02": 838325,
@@ -2680,7 +2767,7 @@
       "rank_change_7d": null
     },
     "Keane - Somewhere Only We Know (Lyrics)": {
-      "views": 1115591,
+      "views": 1115651,
       "previous_views": 1054445,
       "views_history": {
         "2025-09-02": 682359,
@@ -2695,7 +2782,7 @@
       "rank_change_7d": null
     },
     "Oorum Blood | Dude | Pradeep Ranganathan, Mamitha Baiju | @SaiAbhyankkar | Keerthiswaran | Mythri": {
-      "views": 39744088,
+      "views": 39777451,
       "previous_views": 8377800,
       "views_history": {
         "2025-08-31": 5438087,
@@ -2711,7 +2798,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - Goodbye (Official Lyric Video)": {
-      "views": 4412680,
+      "views": 4413622,
       "previous_views": 1672268,
       "views_history": {
         "2025-09-01": 1186948,
@@ -2726,7 +2813,7 @@
       "rank_change_7d": null
     },
     "DJ Khaled, Vybz, Buju, Bounty, Mavado, RoryStoneLove & Kaylan - You Remind Me (Official Video)": {
-      "views": 2664610,
+      "views": 2664928,
       "previous_views": 1618760,
       "views_history": {
         "2025-08-30": 744457,
@@ -2743,7 +2830,7 @@
       "rank_change_7d": null
     },
     "Perrie - If He Wanted To He Would (Official Video)": {
-      "views": 2310688,
+      "views": 2311189,
       "previous_views": 1236288,
       "views_history": {
         "2025-08-26": 514066,
@@ -2764,7 +2851,7 @@
       "rank_change_7d": null
     },
     "PARTYNEXTDOOR & DRAKE - SOMEBODY LOVES ME DIRECTED BY JUSTICE SILVERA": {
-      "views": 2238866,
+      "views": 2239188,
       "previous_views": 1091808,
       "views_history": {
         "2025-09-02": 924145,
@@ -2778,7 +2865,7 @@
       "rank_change_7d": null
     },
     "Karan Aujla | Ikky - Daytona (Official Audio)": {
-      "views": 10201593,
+      "views": 10206019,
       "previous_views": 4233835,
       "views_history": {
         "2025-08-26": 2146612,
@@ -2798,7 +2885,7 @@
       "rank_change_7d": null
     },
     "The Living Tombstone - \"Step On Up\" feat. @McGwireMusic": {
-      "views": 4012758,
+      "views": 4013441,
       "previous_views": null,
       "views_history": {
         "2025-09-03": 1376179
@@ -2810,7 +2897,7 @@
       "rank_change_7d": null
     },
     "Rosalina (Official Music Video) -  Black Sapphire Band | Alison Gonsalves | New Konkani Song 2025": {
-      "views": 951924,
+      "views": 952673,
       "previous_views": 138601,
       "views_history": {
         "2025-09-01": 113957,
@@ -2824,7 +2911,7 @@
       "rank_change_7d": null
     },
     "Janaab-e-Aali | Full Song | WAR 2 | Hrithik Roshan, NTR | Pritam, Sachet Tandon, Saaj Bhatt, Amitabh": {
-      "views": 33395132,
+      "views": 33404743,
       "previous_views": 15707342,
       "views_history": {
         "2025-08-26": 9643369,
@@ -2843,7 +2930,7 @@
       "rank_change_7d": null
     },
     "D-Block Europe (Young Adz) SKI FLOW [Official Video]": {
-      "views": 1837303,
+      "views": 1837565,
       "previous_views": 1193810,
       "views_history": {
         "2025-08-26": 1001363,
@@ -2881,7 +2968,7 @@
       "rank_change_7d": null
     },
     "IVE \uc544\uc774\ube0c \u2018XOXZ\u2019 MV": {
-      "views": 19901064,
+      "views": 19907001,
       "previous_views": 11293959,
       "views_history": {
         "2025-08-26": 5328827,
@@ -2899,7 +2986,7 @@
       "rank_change_7d": null
     },
     "Karan Aujla | Ikky - I Really Do... (Official Audio)": {
-      "views": 10216353,
+      "views": 10220062,
       "previous_views": 3187926,
       "views_history": {
         "2025-08-31": 3187926,
@@ -2924,7 +3011,7 @@
       "rank_change_7d": null
     },
     "Danger - Param Sundari | Sidharth M, Janhvi K | Sachin-Jigar, Vishal Dadlani, Parvati M, Amitabh B": {
-      "views": 28377454,
+      "views": 28382533,
       "previous_views": 19682937,
       "views_history": {
         "2025-08-26": 16312180,
@@ -2941,7 +3028,7 @@
       "rank_change_7d": null
     },
     "Florence + The Machine - Everybody Scream (Official Music Video)": {
-      "views": 3365984,
+      "views": 3366328,
       "previous_views": 2217346,
       "views_history": {
         "2025-08-22": 834861,
@@ -2961,7 +3048,7 @@
       "rank_change_7d": null
     },
     "Tattoo": {
-      "views": 3847435,
+      "views": 3848546,
       "previous_views": 1612751,
       "views_history": {
         "2025-08-27": 855708,
@@ -2977,7 +3064,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - Go Go Juice (Official Lyric Video)": {
-      "views": 3468879,
+      "views": 3469718,
       "previous_views": null,
       "views_history": {
         "2025-08-31": 863418
@@ -2989,7 +3076,7 @@
       "rank_change_7d": null
     },
     "RM - Rootbeer [Music Video]": {
-      "views": 249554,
+      "views": 249612,
       "previous_views": 121546,
       "views_history": {
         "2025-08-26": 84301,
@@ -3006,7 +3093,7 @@
       "rank_change_7d": null
     },
     "Caps - Pyar Agya (Official Audio)": {
-      "views": 279849,
+      "views": 279893,
       "previous_views": 95049,
       "views_history": {
         "2025-08-26": 49958,
@@ -3023,7 +3110,7 @@
       "rank_change_7d": null
     },
     "Twenty One Pilots - Drum Show (Official Video)": {
-      "views": 10998802,
+      "views": 10999330,
       "previous_views": 6230167,
       "views_history": {
         "2025-08-20": 2102563,
@@ -3044,7 +3131,7 @@
       "rank_change_7d": null
     },
     "Karan Aujla | Ikky - 7.7 Magnitude (Official Audio)": {
-      "views": 6088232,
+      "views": 6089879,
       "previous_views": 2534943,
       "views_history": {
         "2025-08-28": 2301793,
@@ -3058,7 +3145,7 @@
       "rank_change_7d": null
     },
     "Offset, Gunna - Different Species (Audio)": {
-      "views": 3482322,
+      "views": 3482767,
       "previous_views": 1771024,
       "views_history": {
         "2025-08-26": 1120318,
@@ -3074,7 +3161,7 @@
       "rank_change_7d": null
     },
     "O\u0308mer Bu\u0308ku\u0308lmezo\u011flu - Desert Rain (Official Video)": {
-      "views": 4508672,
+      "views": 4510571,
       "previous_views": null,
       "views_history": {
         "2025-08-30": 1761210
@@ -3086,7 +3173,7 @@
       "rank_change_7d": null
     },
     "Lukas Graham - 7 Years (Lyrics)": {
-      "views": 877404,
+      "views": 877434,
       "previous_views": 779103,
       "views_history": {
         "2025-08-27": 495303,
@@ -3101,7 +3188,7 @@
       "rank_change_7d": null
     },
     "Sabrina Carpenter - Sugar Talking (Official Lyric Video)": {
-      "views": 3369248,
+      "views": 3369944,
       "previous_views": null,
       "views_history": {
         "2025-08-30": 717150
@@ -3113,7 +3200,7 @@
       "rank_change_7d": null
     },
     "Kasst 8 - Plugged In w/ Fumez The Engineer | Mixtape Madness": {
-      "views": 922884,
+      "views": 923122,
       "previous_views": 495557,
       "views_history": {
         "2025-08-26": 443108,
@@ -3129,7 +3216,7 @@
       "rank_change_7d": null
     },
     "Slim - 24 (Official Music Video)": {
-      "views": 811051,
+      "views": 811159,
       "previous_views": 445211,
       "views_history": {
         "2025-08-26": 369495,
@@ -3145,7 +3232,7 @@
       "rank_change_7d": null
     },
     "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters": {
-      "views": 3380411,
+      "views": 3380533,
       "previous_views": 2977860,
       "views_history": {
         "2025-08-22": 1520029,
@@ -3164,7 +3251,7 @@
       "rank_change_7d": null
     },
     "Halsey - Gasoline (Official Music Video)": {
-      "views": 4026704,
+      "views": 4027086,
       "previous_views": 1718193,
       "views_history": {
         "2025-08-25": 897858,
@@ -3179,7 +3266,7 @@
       "rank_change_7d": null
     },
     "Asco - Pain (Official Video)": {
-      "views": 520897,
+      "views": 521001,
       "previous_views": 287132,
       "views_history": {
         "2025-08-26": 265665,
@@ -3194,7 +3281,7 @@
       "rank_change_7d": null
     },
     "Booter Bee - Levelled Up Ft Fatah [Official Music Video] #TS2Deluxe": {
-      "views": 300104,
+      "views": 300147,
       "previous_views": 118274,
       "views_history": {
         "2025-08-26": 88065,
@@ -3224,7 +3311,7 @@
       "rank_change_7d": null
     },
     "Love Insurance Kompany (LIK - Tamil) | First Punch | Pradeep Ranganathan | Vignesh Shivan | Anirudh": {
-      "views": 17604258,
+      "views": 17605140,
       "previous_views": null,
       "views_history": {
         "2025-08-28": 11897598
@@ -3236,7 +3323,7 @@
       "rank_change_7d": null
     },
     "\uc090\ucc98\ub9ac BLEEP": {
-      "views": 5613479,
+      "views": 5614280,
       "previous_views": 2553992,
       "views_history": {
         "2025-08-23": 1414365,
@@ -3252,7 +3339,7 @@
       "rank_change_7d": null
     },
     "Karan Aujla | Ikky - P-POP CULTURE (Official Audio)": {
-      "views": 4519613,
+      "views": 4520751,
       "previous_views": 1727962,
       "views_history": {
         "2025-08-26": 1727962,
@@ -3265,7 +3352,7 @@
       "rank_change_7d": null
     },
     "Krept - Tally Not Krept": {
-      "views": 148684,
+      "views": 148701,
       "previous_views": 88346,
       "views_history": {
         "2025-08-26": 88346,
@@ -3278,7 +3365,7 @@
       "rank_change_7d": null
     },
     "DARLING, I (Official Video)": {
-      "views": 5205836,
+      "views": 5206371,
       "previous_views": 3193116,
       "views_history": {
         "2025-08-20": 1317128,
@@ -3295,7 +3382,7 @@
       "rank_change_7d": null
     },
     "CREED": {
-      "views": 5057099,
+      "views": 5058119,
       "previous_views": 2095904,
       "views_history": {
         "2025-08-23": 1151035,
@@ -3310,7 +3397,7 @@
       "rank_change_7d": null
     },
     "Olivia Dean - Man I Need": {
-      "views": 7382065,
+      "views": 7390855,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 676135
@@ -3322,7 +3409,7 @@
       "rank_change_7d": null
     },
     "Frosty - Asics [Music Video] | GRM Daily": {
-      "views": 370994,
+      "views": 371047,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 178980
@@ -3334,7 +3421,7 @@
       "rank_change_7d": null
     },
     "Chino Pacas - Ojitos Mentirosos [Video Oficial]": {
-      "views": 41085420,
+      "views": 41086666,
       "previous_views": 16170619,
       "views_history": {
         "2025-08-20": 9537531,
@@ -3351,7 +3438,7 @@
       "rank_change_7d": null
     },
     "ANUEL AA \u274c BLESSD | PORTATE BONITO": {
-      "views": 37884082,
+      "views": 37885001,
       "previous_views": 5471789,
       "views_history": {
         "2025-08-23": 2031186,
@@ -3366,7 +3453,7 @@
       "rank_change_7d": null
     },
     "Cardi B - Imaginary Playerz [Official Music Video]": {
-      "views": 7782407,
+      "views": 7783300,
       "previous_views": 4586917,
       "views_history": {
         "2025-08-20": 3242537,
@@ -3383,7 +3470,7 @@
       "rank_change_7d": null
     },
     "Gunna - just say dat [Official Video]": {
-      "views": 10051889,
+      "views": 10053601,
       "previous_views": 4507630,
       "views_history": {
         "2025-08-20": 3325849,
@@ -3400,7 +3487,7 @@
       "rank_change_7d": null
     },
     "\"The Devil Is A Democrat\" - Tom MacDonald": {
-      "views": 5748194,
+      "views": 5748388,
       "previous_views": 3920098,
       "views_history": {
         "2025-08-20": 2836545,
@@ -3417,7 +3504,7 @@
       "rank_change_7d": null
     },
     "BAD BUNNY ft. Chuwi - WELTiTA (Video Oficial) | DeB\u00cd TiRAR M\u00e1S FOToS": {
-      "views": 17310427,
+      "views": 17311497,
       "previous_views": 2151440,
       "views_history": {
         "2025-08-25": 2151440,
@@ -3430,7 +3517,7 @@
       "rank_change_7d": null
     },
     "YFN Lucci - ON MY MIND. (Official Music Video)": {
-      "views": 5726268,
+      "views": 5727032,
       "previous_views": 2580943,
       "views_history": {
         "2025-08-23": 2244244,
@@ -3445,7 +3532,7 @@
       "rank_change_7d": null
     },
     "FUERZA REGIDA - CHAKA (VIDEO OFICIAL)": {
-      "views": 4981810,
+      "views": 4982104,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 2474442
@@ -3457,7 +3544,7 @@
       "rank_change_7d": null
     },
     "Snow Tha Product - SABADO": {
-      "views": 4238364,
+      "views": 4238581,
       "previous_views": 2039771,
       "views_history": {
         "2025-08-20": 1214662,
@@ -3474,7 +3561,7 @@
       "rank_change_7d": null
     },
     "YFN Lucci - WOULD YOU CARE? (Official Music Video)": {
-      "views": 3777929,
+      "views": 3778217,
       "previous_views": 1379946,
       "views_history": {
         "2025-08-24": 1190053,
@@ -3488,7 +3575,7 @@
       "rank_change_7d": null
     },
     "Different Species": {
-      "views": 6902269,
+      "views": 6904260,
       "previous_views": 754010,
       "views_history": {
         "2025-08-24": 513145,
@@ -3502,7 +3589,7 @@
       "rank_change_7d": null
     },
     "Zillionaire Doe - Back To The South Remix Ft. Yo Gotti (Official Video) ": {
-      "views": 2342075,
+      "views": 2342297,
       "previous_views": 986365,
       "views_history": {
         "2025-08-20": 556789,
@@ -3519,7 +3606,7 @@
       "rank_change_7d": null
     },
     "LUCKI & Lil Yachty - I Don't Care... (Official Video)": {
-      "views": 2278600,
+      "views": 2278778,
       "previous_views": 681353,
       "views_history": {
         "2025-08-25": 681353,
@@ -3532,7 +3619,7 @@
       "rank_change_7d": null
     },
     "BigXthaPlug - Box Me Up feat. Jelly Roll (Official Music Video)": {
-      "views": 4456709,
+      "views": 4457085,
       "previous_views": 640168,
       "views_history": {
         "2025-08-25": 640168,
@@ -3545,7 +3632,7 @@
       "rank_change_7d": null
     },
     "Offset, YoungBoy Never Broke Again - Pills (Audio)": {
-      "views": 1158640,
+      "views": 1158681,
       "previous_views": 536868,
       "views_history": {
         "2025-08-23": 265056,
@@ -3560,7 +3647,7 @@
       "rank_change_7d": null
     },
     "Run It Up": {
-      "views": 4724382,
+      "views": 4725742,
       "previous_views": 432819,
       "views_history": {
         "2025-08-24": 306649,
@@ -3574,7 +3661,7 @@
       "rank_change_7d": null
     },
     "I Hope You're Happy": {
-      "views": 1750516,
+      "views": 1750691,
       "previous_views": 351266,
       "views_history": {
         "2025-08-24": 243572,
@@ -3588,7 +3675,7 @@
       "rank_change_7d": null
     },
     "YTB Fatt, FoxBD - \u201cBigger Than The Program\u201d (Official Music Video)": {
-      "views": 1296180,
+      "views": 1296359,
       "previous_views": 351654,
       "views_history": {
         "2025-08-23": 211397,
@@ -3603,7 +3690,7 @@
       "rank_change_7d": null
     },
     "About You": {
-      "views": 765319,
+      "views": 765343,
       "previous_views": 251572,
       "views_history": {
         "2025-08-24": 174572,
@@ -3617,7 +3704,7 @@
       "rank_change_7d": null
     },
     "Mariah the Scientist - Sacrifice (Official Lyric Video)": {
-      "views": 1594203,
+      "views": 1594551,
       "previous_views": 243946,
       "views_history": {
         "2025-08-24": 180738,
@@ -3631,7 +3718,7 @@
       "rank_change_7d": null
     },
     "EBK Jaaybo - I'm Koming (Official Visualizer)": {
-      "views": 1050478,
+      "views": 1050592,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 300171
@@ -3643,7 +3730,7 @@
       "rank_change_7d": null
     },
     "Mariah the Scientist - Like You Never (Official Lyric Video)": {
-      "views": 689063,
+      "views": 689160,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 191065
@@ -3655,7 +3742,7 @@
       "rank_change_7d": null
     },
     "Mariah the Scientist - Rainy Days (Official Lyric Video)": {
-      "views": 1162074,
+      "views": 1162345,
       "previous_views": null,
       "views_history": {
         "2025-08-26": 185098
@@ -3667,7 +3754,7 @@
       "rank_change_7d": null
     },
     "SUGAR ON MY TONGUE": {
-      "views": 11675565,
+      "views": 11681595,
       "previous_views": 4512157,
       "views_history": {
         "2025-08-20": 3549695,
@@ -3683,7 +3770,7 @@
       "rank_change_7d": null
     },
     "Vicente Fern\u00e1ndez - Un Mill\u00f3n de Primaveras (Letra / Lyrics)": {
-      "views": 2010764,
+      "views": 2010776,
       "previous_views": 1077195,
       "views_history": {
         "2025-08-22": 691397,
@@ -3698,7 +3785,7 @@
       "rank_change_7d": null
     },
     "Wendyyy - OKAY  ( Official Video )": {
-      "views": 1589911,
+      "views": 1589942,
       "previous_views": 1062205,
       "views_history": {
         "2025-08-22": 628883,
@@ -3713,7 +3800,7 @@
       "rank_change_7d": null
     },
     "Disappoint Me (Feat. Hurricane Wisdom)": {
-      "views": 2414059,
+      "views": 2414301,
       "previous_views": 976397,
       "views_history": {
         "2025-08-20": 736482,
@@ -3728,7 +3815,7 @@
       "rank_change_7d": null
     },
     "NoCap - Planet Out [Official Music Video]": {
-      "views": 1543736,
+      "views": 1543882,
       "previous_views": 616191,
       "views_history": {
         "2025-08-20": 431688,
@@ -3743,7 +3830,7 @@
       "rank_change_7d": null
     },
     "Box Me Up": {
-      "views": 1322034,
+      "views": 1322083,
       "previous_views": 175680,
       "views_history": {
         "2025-08-23": 175680,
